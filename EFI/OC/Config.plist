@@ -88,11 +88,11 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Battery fixes for T460</string>
+				<string>Battery fixes for T460s</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-BATT.aml</string>
+				<string>SSDT-OCBAT0-TP_Tx60.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -100,7 +100,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-BATC.aml</string>
+				<string>SSDT-OCBATC-TP-LPC.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -108,8 +108,9 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-NTFY.aml</string>
+				<string>SSDT-Notify-LPC.aml</string>
 			</dict>
+
 		</array>
 		<key>Delete</key>
 		<array/>
@@ -247,6 +248,32 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>TP-BAT:GBIX03 to XBIX03</string>
+				<key>Count</key>
+				<integer>0</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>R0JJWAM=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>OemTableId</key>
+				<data></data>
+				<key>Replace</key>
+				<data>WEJJWAM=</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>TP-BAT:GBST04 to XBST04</string>
 				<key>Count</key>
 				<integer>0</integer>
@@ -271,6 +298,33 @@
 				<key>TableSignature</key>
 				<data></data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>TP-BAT:AJTP03 to XJTP03</string>
+				<key>Count</key>
+				<integer>0</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>QUpUUAM=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>OemTableId</key>
+				<data></data>
+				<key>Replace</key>
+				<data>WEpUUAM=</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+			</dict>
+
 			<dict>
 				<key>Comment</key>
 				<string>_Q6A to XQ6A (F4 - Microphone Mute)</string>
@@ -741,13 +795,13 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>BATW to WBAT</string>
+				<string>BATW to XATW</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>TwdCQVRXAQ==</data>
+				<data>QkFUVwE=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -755,7 +809,7 @@
 				<key>OemTableId</key>
 				<data></data>
 				<key>Replace</key>
-				<data>TwdXQkFUAQ==</data>
+				<data>WEFUVwE=</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
