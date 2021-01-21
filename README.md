@@ -2,6 +2,8 @@
 This repo contains the files and scripts to install macOS on the Lenovo T460 family
 This set up is based on OpenCore 0.6.5 and it uses the Intel Wireless -AC 8260 that came with the laptop
 
+Due to file size limitations I am posting the Recourses folder seperately. Just paste it inside OC folder.
+
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad T460 (20FN003LGE)
 - <b>Bios</b>: 1.42
