@@ -1,28 +1,16 @@
-# Lenovo-T460-Hackintosh-Catalina-OpenCore
+# Lenovo-T460-Hackintosh-Big Sur-OpenCore
 This repo contains the files and scripts to install macOS on the Lenovo T460 family
-
-sysInfo | neoFetch
-:---:|:----:
-![T460](Images/SysInfo.png) | ![T460](Images/NeoFetch.png)
-
-# Update History
-- [x] macOS 10.15.6 Supplemental Update
-- [x] macOS 10.15.6
-- [x] macOS 10.15.5 Supplemental Update
-- [x] macOS 10.15.5
-- [x] macOS 10.15.4 Supplemental Update
-- [x] macOS 10.15.4
-- [x] macOS 10.15.3
+This set up is based on OpenCore 0.6.5 and it uses the Intel Wireless -AC 8260 that came with the laptop
 
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad T460 (20FN003LGE)
-- <b>Bios</b>: 1.43
+- <b>Bios</b>: 1.42
 - <b>CPU</b>: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
 - <b>GPU</b>: Intel HD Graphics 520
-- <b>Storage</b>: WDC WDS480G2G0A-00JH30 (Upgraded)
+- <b>Storage</b>: Samsung 256 BG SSD
 - <b>RAM</b>: 8 GB PC3L-12800 1600MHz DDR3L
 - <b>Screen</b>: 14" FHD (1920x1080) IPS
-- <b>Wi-Fi</b>: Broadcom DW1560 (BCM94352Z) Dual Band M.2 Ngff Wifi Card (Upgraded)
+- <b>Wi-Fi</b>: Intel Wireless - AC 8260
 - <b>Ethernet</b>: Intel I219-V PCIe Gigabit Ethernet
 - <b>Sound</b>: Realtek ALC3245 (same as ALC239)
 - <b>Camera</b>: 720p
@@ -64,4 +52,3 @@ sysInfo | neoFetch
 # What's not working ⚠️
 - [ ] Fingerprint Reader (will never work since no drivers available)
 - [ ] Sidecar Wireless (doesn't work without apple native WIFI card)
-- [ ] Intel WiFi (this <b>must</b> be replaced in order to use WiFi)
