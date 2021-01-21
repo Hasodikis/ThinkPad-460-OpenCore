@@ -6,6 +6,8 @@ Due to file size limitations I am posting the Recourses folder seperately. Just 
 
 Fill in platfom info on config.plist
 
+![alt text](https://github.com/Hasodikis/Lenovo-T460-OpenCore/blob/master/Photos/Screen%20Shot%202021-01-21%20at%2012.35.54%20PM.png?raw=true)
+
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad T460 (20FN003LGE)
 - <b>Bios</b>: 1.42
