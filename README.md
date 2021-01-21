@@ -4,6 +4,8 @@ This set up is based on OpenCore 0.6.5 and it uses the Intel Wireless -AC 8260 t
 
 Due to file size limitations I am posting the Recourses folder seperately. Just paste it inside OC folder.
 
+Fill in platfom info on config.plist
+
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad T460 (20FN003LGE)
 - <b>Bios</b>: 1.42
