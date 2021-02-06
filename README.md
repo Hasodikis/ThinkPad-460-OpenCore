@@ -70,7 +70,7 @@ CPU voltage offset: -80mv
 GPU voltage offset: -80mv
 CPU Cache voltage offset: -60mv
 
-- I changed the German layout keyboard, with a backlid US qwerty one. Its a cheap and easy replacement. 
+- I replaced the German layout keyboard with a backlid US qwerty one. Its a cheap and easy replacement. 
 
 - One of the main design/construction flaws, in my oppinion, with this laptop is the contact between the screen panel and the keyborad, when the laptop is carried in tight scpaces (backpacks etc). This can cause permanent scratches on the screen surface. To avoid that i suggest you use a screen protector. There are plenty in ebay and its a cheap mod. 
 
