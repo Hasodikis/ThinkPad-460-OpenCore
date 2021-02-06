@@ -65,14 +65,14 @@ Fill in platfom info on config.plist
 
 # Cosmetics - Mods - ETC
 
-- I suggest to all of you to use Voltageshift for undervolting and maximum energy efficiency. Go to https://github.com/sicreative/VoltageShift and download it. The best way to use it (in my oppinion) is to load the kext form the EFI. Place the VoltageShift.kext in EFI/OC/kexts and load it with config.plist. Have a copy of the kext and the executable in a folder on your disk. Right now I am wornking stably with:
+- I suggest to all of you to use Voltageshift for undervolting and maximum energy efficiency. Go to https://github.com/sicreative/VoltageShift and download it. The best way to use it (in my oppinion) is to load the kext form the EFI. Place the VoltageShift.kext in EFI/OC/kexts and load it with config.plist. Have a copy of the kext and the executable in a folder on your disk. Right now I am working stably with:
 CPU voltage offset: -80mv
 GPU voltage offset: -80mv
 CPU Cache voltage offset: -60mv
 
 - I changed the German layout keyboard, with a backlid US qwerty one. Its a cheap and easy replacement. 
 
-- One of the main design construction flaws, in my oppinion, with this laptop of the contact between the screen panel and the keyborad when the laptop is carried in tight scpaces (backpacks etc). This can cause permanent scratches on the screen surface. To avoid that i suggest you use a screen protector. There are plenty in ebay and its a cheap mod. 
+- One of the main design/construction flaws, in my oppinion, with this laptop is the contact between the screen panel and the keyborad, when the laptop is carried in tight scpaces (backpacks etc). This can cause permanent scratches on the screen surface. To avoid that i suggest you use a screen protector. There are plenty in ebay and its a cheap mod. 
 
 - Although the intel wifi card that came with the laptop works, Its more or less unstable and has several issues (slow boot, slower speeds, drops, problems after sleep  etc). I suggest you replace the original wifi card with something more compatible.  
 
