@@ -1,9 +1,7 @@
 # Lenovo-T460-Hackintosh-Big Sur-OpenCore
 This repo contains the files and scripts to install macOS on the Lenovo T460 family.
 
-This set up is based on OpenCore 0.6.6 and it uses the Intel Wireless -AC 8260 that came with the laptop.
-
-After some time the Wifi device will change to Broadcom.
+This set up is based on OpenCore 0.7.5 and it uses a Broadcom Broadcom BCM43xx wifi/bluetooth card .
 
 Fill in platfom info on config.plist
 
@@ -20,7 +18,7 @@ Fill in platfom info on config.plist
 - <b>Storage</b>: Samsung 256 BG SSD
 - <b>RAM</b>: 8 GB PC3L-12800 1600MHz DDR3L
 - <b>Screen</b>: 14" FHD (1920x1080) IPS
-- <b>Wi-Fi</b>: Intel Wireless - AC 8260
+- <b>Wi-Fi</b>: Broadcom BCM43xx
 - <b>Ethernet</b>: Intel I219-V PCIe Gigabit Ethernet
 - <b>Sound</b>: Realtek ALC3245 (same as ALC239)
 - <b>Camera</b>: 720p
