@@ -1,7 +1,7 @@
 # Lenovo-T460-Hackintosh-Big Sur-OpenCore
 This repo contains the files and scripts to install macOS on the Lenovo T460 family.
 
-This set up is based on OpenCore 0.7.5 and it uses a Broadcom Broadcom BCM43xx wifi/bluetooth card .
+This set up is based on OpenCore 0.7.5 and it uses a Broadcom BCM43xx (DW1820) wifi/bluetooth card .
 
 Fill in platfom info on config.plist
 
