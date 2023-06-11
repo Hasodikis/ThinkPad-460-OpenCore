@@ -8,7 +8,8 @@ Some instructions:
 1. Apple keeps messing with the bluetooth. So for 13.4 a patch in config.plist is necessary. DO NOT UPDATE to 13.5 because it breaks bluetooth again. Search first. 
 2. I switched back to the stock Intel WiFi card. If you have a Broadcom card amend EFI. 
 3. Install Thinkpad assistant app for full keyboard F keys functionality.
-4. The fan seems to spin up more often than before. Haven' t played with VoltageShift yet.   
+4. DO NOT UPDATE voodoo kexts. It will break keyboard and trackpad. 
+5. The fan seems to spin up more often than before. Haven' t played with VoltageShift yet.   
 
 Fill in platfom info on config.plist
 
