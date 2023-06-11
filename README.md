@@ -11,7 +11,7 @@ Some instructions:
 4. DO NOT UPDATE voodoo kexts. It will break keyboard and trackpad. 
 5. The fan seems to spin up more often than before. Haven' t played with VoltageShift yet.   
 
-Fill in platfom info on config.plist
+Fill in platform info on config.plist
 
 ![Screenshot 2023-06-11 at 7 27 20 AM](https://github.com/Hasodikis/ThinkPad_t460_Hackintosh_OpenCore/assets/61179177/dae76ca6-2d53-4b4d-a564-3fa2bfebde96)
 
@@ -69,7 +69,7 @@ Fill in platfom info on config.plist
 
 # Cosmetics - Mods - ETC
 
-- I suggest to all of you to use Voltageshift for undervolting and maximum energy efficiency. Go to https://github.com/sicreative/VoltageShift and download it. The best way to use it (in my oppinion) is to load the kext form the EFI. Place the VoltageShift.kext in EFI/OC/kexts and load it with config.plist. Have a copy of the kext and the executable in a folder on your disk. Right now I am working stably with:
+- I suggest to all of you to use Voltageshift for undervolting and maximum energy efficiency. Go to https://github.com/sicreative/VoltageShift and download it. The best way to use it (in my oppinion) is to load the kext from the EFI. Place the VoltageShift.kext in EFI/OC/kexts and load it with config.plist. Have a copy of the kext and the executable in a folder on your disk. Right now I am working with:
 CPU voltage offset: -80mv
 GPU voltage offset: -80mv
 CPU Cache voltage offset: -60mv
