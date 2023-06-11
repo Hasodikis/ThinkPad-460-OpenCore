@@ -2,7 +2,7 @@
 This repo contains the files and scripts to install macOS on the Lenovo T460 family.
 
 # 2023 VENTURA 13.4 UPDATE
-The new rrelease allows for the installation of MacOs Ventura 13.4 on a Thinkpad T460.
+This new release allows for the installation of MacOS Ventura 13.4 on a Thinkpad T460.
 This update was A PAIN IN THE ASS to get it to work properly. 
 Some instructions:
 1. Apple keeps messing with the bluetooth. So for 13.4 a patch in config.plist is necessary. DO NOT UPDATE to 13.5 becuase it breaks bluetooth again. Search first. 
