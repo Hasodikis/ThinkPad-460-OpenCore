@@ -13,10 +13,8 @@ Some instructions:
 
 Fill in platfom info on config.plist
 
-![alt text](https://github.com/Hasodikis/Lenovo-T460-OpenCore/blob/master/Photos/1611225483522.jpg?raw=true)
+![Screenshot 2023-06-11 at 7 27 20 AM](https://github.com/Hasodikis/ThinkPad_t460_Hackintosh_OpenCore/assets/61179177/dae76ca6-2d53-4b4d-a564-3fa2bfebde96)
 
-
-![alt text](https://github.com/Hasodikis/Lenovo-T460-OpenCore/blob/master/Photos/Screen%20Shot%202021-01-21%20at%2012.35.54%20PM.png?raw=true)
 
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad T460 (20FN003LGE)
