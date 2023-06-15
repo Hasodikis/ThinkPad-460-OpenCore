@@ -7,8 +7,11 @@ New version.
 1. config.plist CleanUp
 2. Kext updates
 3. Added two separate EFI folders. One for Intel Wifi and one for Broadcom Wifi.
+
 (Broadcom wifi/bluetooth card works far better than the Intel on. Ie. Airdrop works. In both cases screen mirroring to my iPad does not work. However with Broadcom Wifi it works to my Apple TV. Handoff also works with my iPad and iPhone)
+
 **Don't update Voodoo kexts.**
+
 **Don' t install 13.5 before checking the web for possible Bluetooth problems.**
 
 # 2023 VENTURA 13.4 UPDATE
