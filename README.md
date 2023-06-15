@@ -1,5 +1,5 @@
-# Lenovo-T460-Hackintosh-Big Sur-OpenCore
-This repo contains the files and scripts to install macOS on the Lenovo T460 family.
+# Lenovo ThinkPad T460 Hackintosh MacOS 13 Ventura - OpenCore
+This repo contains the files and scripts to install MacOS on the Lenovo T460 family.
 
 # 2023 VENTURA 13.4.1 UPDATE
 
