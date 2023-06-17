@@ -1,4 +1,4 @@
-# THIS REPO WILL NOT BE UPDATED FURTHER. PLEASE GO TO THE NEW REPO AT https://github.com/Hasodikis/Thinkpad-T460-Hackintosh  
+# THIS REPO WILL NOT BE FURTHER UPDATED. PLEASE GO TO THE NEW REPO AT https://github.com/Hasodikis/Thinkpad-T460-Hackintosh  
 
 
 # Lenovo ThinkPad T460 Hackintosh MacOS 13 Ventura - OpenCore
